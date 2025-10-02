@@ -1,0 +1,9 @@
+{
+  "name": "ars-bling-backend",
+  "version": "1.0.2",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "undici": "^6.19.8"
+  }
+}
