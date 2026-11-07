@@ -1,0 +1,14 @@
+# Segredos e variaveis de ambiente
+.env
+.env.*
+!.env.example
+
+# Certificados e chaves privadas
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Dependencias e logs
+node_modules/
+npm-debug.log*
